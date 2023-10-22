@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-flexbox-S3dn1UIuCv)
 - Live Site URL: [Github](https://r3ygoski.github.io/summary-component/)
 
 ## My process
